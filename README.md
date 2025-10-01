@@ -23,7 +23,7 @@ A Vitali covering propagates smoothness to every finite time slab, yielding glob
 
 ---
 
-## Citation
+## Cite this paper
 
 ~~~bibtex
 @misc{schatz2025anchored,
