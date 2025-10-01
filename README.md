@@ -25,14 +25,23 @@ A Vitali covering propagates smoothness to every finite time slab, yielding glob
 
 ## Cite this paper
 
+If you use this work, please cite it using one of the formats below:
+
+**BibTeX**
 ~~~bibtex
 @misc{schatz2025anchored,
-  title={Anchored Collar Mechanisms for 3D Navier Stokes},
-  author={Kevin Schatz},
-  year={2025},
-  doi={10.5281/zenodo.17082277},
-  url={https://doi.org/10.5281/zenodo.17082277}
+  title        = {Anchored Collar Mechanisms for 3D Navier Stokes},
+  author       = {Schatz, Kevin},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17082277},
+  url          = {https://doi.org/10.5281/zenodo.17082277}
 }
+~~~
+
+**APA (plain text)**
+~~~text
+Schatz, K. (2025). Anchored Collar Mechanisms for 3D Navier Stokes. Zenodo. https://doi.org/10.5281/zenodo.17082277
 ~~~
 
 ---
