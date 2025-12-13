@@ -1,6 +1,10 @@
 theme: jekyll-theme-cayman
 title: Anchored Collar Mechanisms for 3D Navier Stokes
 description: Preprint — DOI 10.5281/zenodo.17082277
-theme: jekyll-theme-cayman
-title: Anchored Collar Mechanisms for 3D Navier Stokes
-description: Preprint proving global regularity and uniqueness for 3D incompressible Navier Stokes equations
+markdown: kramdown
+
+url: "https://kschatz.github.io"
+baseurl: "/navier-stokes-3d-anchored-collar"
+
+plugins:
+  - jekyll-sitemap
