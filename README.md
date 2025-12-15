@@ -11,15 +11,17 @@ We prove **global regularity and uniqueness** for suitable (Leray Hopf) solution
 
 ## Abstract
 
-We prove global regularity and uniqueness for Leray Hopf (suitable) solutions of the three dimensional incompressible Navier Stokes equations.  
+We prove global regularity and uniqueness for Leray Hopf suitable solutions of the three dimensional incompressible Navier Stokes equations.
 
-The key new input is a local, scale invariant anchored collar mechanism on thin spherical annuli:  
-1. A two sided Dirichlet to Neumann law for the elliptic resolvent (via Carleman Rellich estimates and a DN Slepian spectral split).  
-2. An anchored flux absorption inequality for admissible test fields from the same resolvent.  
+The key new input is a local scale invariant anchored collar mechanism on thin spherical annuli:
+(i) a two sided Dirichlet to Neumann law for the elliptic resolvent with cap Neumann data obtained via a one sided Carleman Rellich inequality and a Dirichlet to Neumann Slepian spectral split; and
+(ii) an anchored flux absorption inequality for admissible test fields built from the same resolvent.
 
-Both estimates hold with geometry only constants, independent of scale. Together with LP alignment and time integrated collar capture (AC2 TI), these inputs convert the local energy inequality into a uniform, scale invariant dissipation bound.  
-From there, we obtain contraction for the Caffarelli Kohn Nirenberg functional, a reverse Hölder estimate, a Gehring upgrade for ∇u, and ε regularity.  
-A Vitali covering propagates smoothness to every finite time slab, yielding global smoothness on ℝ³ × (0, ∞) and uniqueness in the Leray Hopf class.
+Both estimates hold with geometry only constants independent of scale. Together with a two sided Littlewood Paley alignment and the time integrated collar capture AC2 TI these inputs convert the local energy inequality into a uniform scale invariant dissipation bound on Whitney collars.
+
+From there we obtain a fixed ratio contraction for the Caffarelli Kohn Nirenberg functional, a reverse Holder estimate in time for the dissipation, a Gehring upgrade for the velocity gradient, and the classical epsilon regularity conclusion.
+
+A Vitali covering propagates smoothness to every finite time slab yielding global smoothness on three dimensional Euclidean space for all positive times and uniqueness in the Leray Hopf class.
 
 ---
 
