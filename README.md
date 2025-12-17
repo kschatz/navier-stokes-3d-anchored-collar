@@ -1,7 +1,11 @@
-## Anchored Collar Mechanisms for 3D Navier Stokes
+# Anchored Collar Mechanisms for 3D Navier Stokes
+
+**Author:** Kevin Schatz
 
 **DOI:** [10.5281/zenodo.17082277](https://doi.org/10.5281/zenodo.17082277)  
 **Preprint hosted on Zenodo**
+
+## Overview
 
 We prove **global regularity and uniqueness** for suitable (Leray Hopf) solutions of the **3D incompressible Navier Stokes equations**, using a new *anchored collar mechanism*.  
 
