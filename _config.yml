@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Anchored Collar Mechanisms for 3D Navier Stokes
-description: Preprint manuscript
+description: Preprint using a local scale-invariant anchored collar mechanism to prove global regularity for the 3D Navier–Stokes equations.
+
 markdown: kramdown
 
 url: "https://kschatz.github.io"
