@@ -1,4 +1,4 @@
-# Anchored Collar Mechanisms for 3D Navier Stokes
+## Anchored Collar Mechanisms for 3D Navier Stokes
 
 **DOI:** [10.5281/zenodo.17082277](https://doi.org/10.5281/zenodo.17082277)  
 **Preprint hosted on Zenodo**
