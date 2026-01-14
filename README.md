@@ -2,14 +2,12 @@
 
 **Author:** Kevin Schatz
 
-**DOI:** [10.5281/zenodo.17082277](https://doi.org/10.5281/zenodo.17082277)  
-**Preprint hosted on Zenodo**
+**DOI:** [10.5281/zenodo.17082277](https://doi.org/10.5281/zenodo.17082277)<br>
+**PDF:** [Download preprint](https://zenodo.org/records/17082278/files/Schatz-Anchored-Collar-3D-Navier-Stokes-2025.pdf)
 
 ## Overview
 
 We prove **global regularity and uniqueness** for suitable (Leray Hopf) solutions of the **3D incompressible Navier Stokes equations**, using a new *anchored collar mechanism*.  
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17082277.svg)](https://doi.org/10.5281/zenodo.17082277)
 
 ---
 
@@ -26,6 +24,15 @@ Both estimates hold with geometry only constants independent of scale. Together 
 From there we obtain a fixed ratio contraction for the Caffarelli Kohn Nirenberg functional, a reverse Holder estimate in time for the dissipation, a Gehring upgrade for the velocity gradient, and the classical epsilon regularity conclusion.
 
 A Vitali covering propagates smoothness to every finite time slab yielding global smoothness on three dimensional Euclidean space for all positive times and uniqueness in the Leray Hopf class.
+
+---
+
+## Repository contents
+
+- <a href="Schatz-Anchored-Collar-3D-Navier-Stokes-2025.pdf">
+  Schatz-Anchored-Collar-3D-Navier-Stokes-2025.pdf – compiled preprint</a>
+- `LICENSE.txt` – licensing terms for this repository (CC BY 4.0)
+- `README.md` – overview, abstract, and citation information
 
 ---
 
